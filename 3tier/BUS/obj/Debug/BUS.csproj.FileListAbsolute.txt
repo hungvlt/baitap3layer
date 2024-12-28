@@ -1,0 +1,45 @@
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\bin\Debug\BUS.dll.config
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\bin\Debug\BUS.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\bin\Debug\BUS.pdb
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\bin\Debug\DAL.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\bin\Debug\EntityFramework.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\bin\Debug\DAL.pdb
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\bin\Debug\DAL.dll.config
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\bin\Debug\EntityFramework.xml
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\obj\Debug\BUS.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\BUS\obj\Debug\BUS.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\bin\Debug\BUS.dll.config
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\bin\Debug\BUS.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\bin\Debug\BUS.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\bin\Debug\DAL.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\bin\Debug\DAL.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\bin\Debug\DAL.dll.config
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\obj\Debug\BUS.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\BUS\obj\Debug\BUS.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\bin\Debug\BUS.dll.config
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\bin\Debug\BUS.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\bin\Debug\BUS.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\bin\Debug\DAL.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\bin\Debug\DAL.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\bin\Debug\DAL.dll.config
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\obj\Debug\BUS.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\BUS\obj\Debug\BUS.pdb

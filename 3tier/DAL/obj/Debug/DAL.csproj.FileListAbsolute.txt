@@ -1,0 +1,36 @@
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\bin\Debug\DAL.dll.config
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\bin\Debug\DAL.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\bin\Debug\DAL.pdb
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\bin\Debug\EntityFramework.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\bin\Debug\EntityFramework.xml
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\obj\Debug\DAL.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\DAL\obj\Debug\DAL.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\bin\Debug\DAL.dll.config
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\bin\Debug\DAL.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\bin\Debug\DAL.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\obj\Debug\DAL.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\DAL\obj\Debug\DAL.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\bin\Debug\DAL.dll.config
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\bin\Debug\DAL.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\bin\Debug\DAL.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\obj\Debug\DAL.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3Layer\DAL\obj\Debug\DAL.pdb

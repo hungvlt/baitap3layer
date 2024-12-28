@@ -1,0 +1,42 @@
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\3tier.exe.config
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\3tier.exe
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\3tier.pdb
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\BUS.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\DAL.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\EntityFramework.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\BUS.pdb
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\BUS.dll.config
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\DAL.pdb
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\DAL.dll.config
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\EntityFramework.xml
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\obj\Debug\_3tier.Properties.Resources.resources
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\obj\Debug\GUI.csproj.Up2Date
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\obj\Debug\3tier.exe
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\obj\Debug\3tier.pdb
+D:\LTWD\2280601115_TranDinhPhiHung\3tier\3tier\obj\Debug\_3tier.frmSanPham.resources
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\3tier.exe.config
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\3tier.exe
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\3tier.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\BUS.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\DAL.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\EntityFramework.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\BUS.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\BUS.dll.config
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\DAL.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\DAL.dll.config
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\EntityFramework.xml
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\obj\Debug\_3tier.Properties.Resources.resources
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\obj\Debug\3tier.exe
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\obj\Debug\3tier.pdb
+C:\Users\Hung\Documents\Zalo Received Files\Bai3Lop\3tier\3tier\obj\Debug\_3Layer.frmSanPham.resources
